@@ -1,1 +1,5 @@
 build
+.lock-waf_darwin_build
+cscope.out
+src/.feature_persist_counter.c.swp
+.DS_Store
