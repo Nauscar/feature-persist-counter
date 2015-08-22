@@ -1,4 +1,4 @@
-# feature-persist-counter
+# sushi-counter
 
 ![screenshot](feature-persist-counter-screenshot.png)
 
